@@ -10,11 +10,3 @@ module.exports = {
   },
   plugins: [],
 }
-export default {
-  content: [],
-  theme: {
-    extend: {},
-  },
-  plugins: [],
-}
-
