@@ -11,7 +11,7 @@
     @vite('resources/css/app.css')
 </head>
 
-<body class="font-['poppins']">
+<body class="font-['poppins'] min-h-screen" >
     <div class="flex flex-col h-[100vh] bg-stone-800">
         <nav class="bg-stone-900">
             <div class="basis-2/12 h-20 w-[100vw] flex items-center">
