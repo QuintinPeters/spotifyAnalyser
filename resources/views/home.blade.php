@@ -27,17 +27,16 @@
                     <li class="mx-3 hover:underline underline-offset-4 decoration-[#1db954]"><a href="#">Home</a>
                     </li>
                 </ul>
-                <ion-icon name="person-circle-outline" class="mx-5 text-4xl text-white hover:text-[#1db954]"></ion-icon>
+                <a href="#"><ion-icon name="person-circle-outline" class="mx-5 text-4xl text-white hover:text-[#1db954]"></ion-icon></a>
             </div>
         </nav>
         <div class=" basis-3/4">
         </div>
-        <footer class="basis-2/12 bg-stone-900 text-white">
+        <footer class="basis-[15%] bg-stone-900 text-white">
             <h1>yoooo</h1>
         </footer>
     </div>
     <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
 </body>
-
 </html>
